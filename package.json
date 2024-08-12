@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-kowka-vn-plugin",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "This is plugin for developing project",
   "access": "public",
   "publishConfig": {
